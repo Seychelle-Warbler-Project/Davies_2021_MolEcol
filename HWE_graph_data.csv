@@ -1,0 +1,13 @@
+Genotype,Obs_Exp_values,Obs_Exp,Category,value
+AA,Obs,a,All individuals,273
+AC,Obs,a,All individuals,234
+CC,Obs,a,All individuals,84
+AA,Exp,b,All individuals,257.2481
+AC,Exp,b,All individuals,265.5038
+CC,Exp,b,All individuals,68.2481
+AA,Obs,a,Survive to adulthood,178
+AC,Obs,a,Survive to adulthood,154
+CC,Obs,a,Survive to adulthood,48
+AA,Exp,b,Survive to adulthood,171.0079
+AC,Exp,b,Survive to adulthood,167.9842
+CC,Exp,b,Survive to adulthood,41.0079
